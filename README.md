@@ -5,7 +5,7 @@
 Sou desenvolvedor com mais de 15 anos de experiência em desenvolvimento de software utilizando, Angular, Node.js, Java/Spring, em arquiteturas distribuídas com microservices e micro frontend.
 Liderei e integrei equipes técnicas em empresas de grande porte. SBT, VIA S.A, Casas Bahia, Grupo Panvel e Estadão.
 Sou apaixonado por mentoria de equipes, integração de sistemas complexos, e por implementar soluções tecnológicas que tragam inovação e escalabilidade para os negócios. Foco em metodologias ágeis (Scrum/), sendo responsável pela gestão de backlog, planejamento de sprints e entregas de qualidade.
-"[https://www.youtube.com/@danielengdev](https://www.youtube.com/@danielengdev)", e também através do Instagram, com o perfil chamado "[https://www.instagram.com/daniel.eng.dev/](https://www.instagram.com/daniel.eng.dev/)".
+"[https://www.youtube.com/@danielengdev](https://www.youtube.com/@danielengdev)", e também através do Instagram: "[https://www.instagram.com/daniel.eng.dev/](https://www.instagram.com/daniel.eng.dev/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@danielengdev?sub_confirmation=1">
