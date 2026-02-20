@@ -1,11 +1,31 @@
-# 👩🏻‍💻 Daniel EngDev
+# 👩🏻‍💻 Daniel Faustino
 
-**`Desenvolvedor FullStack`**
+**`Frontend Architect | Staff Frontend Engineer
+Angular • Micro-frontends • Design Systems • Frontend Platform • DevOps`**
 
-Sou desenvolvedor com mais de 15 anos de experiência em desenvolvimento de software utilizando, Angular, Node.js, Java/Spring, em arquiteturas distribuídas com microservices e micro frontend.
-Liderei e integrei equipes técnicas em empresas de grande porte. SBT, VIA S.A, Casas Bahia, Grupo Panvel e Estadão.
-Sou apaixonado por mentoria de equipes, integração de sistemas complexos, e por implementar soluções tecnológicas que tragam inovação e escalabilidade para os negócios. Foco em metodologias ágeis (Scrum/), sendo responsável pela gestão de backlog, planejamento de sprints e entregas de qualidade.
-"[https://www.youtube.com/@danielengdev](https://www.youtube.com/@danielengdev)", e também através do Instagram: "[https://www.instagram.com/daniel.eng.dev/](https://www.instagram.com/daniel.eng.dev/)".
+Sou engenheiro de software com 18+ anos de experiência liderando a construção e modernização de produtos digitais em ambientes enterprise.
+Especialista em:
+Arquitetura de Micro-frontends (Module Federation / Native Federation)
+Angular avançado (v2–v21) com arquitetura modular baseada em domínio
+Design Systems corporativos
+Frontend Platform Engineering
+Integração com Node.js (BFF) e APIs Spring
+CI/CD, Docker e arquitetura distribuída
+Atuei em projetos de alta escala em empresas como:
+
+Sicoob,
+Via Varejo (Casas Bahia),
+Grupo Dimed (Panvel),
+SBT,
+Estadão.
+
+Foco em transformar sistemas complexos em arquiteturas escaláveis, sustentáveis e orientadas ao negócio.
+
+📩 LinkedIn: https://www.linkedin.com/in/daniel-faustino-silva
+
+📺 YouTube: https://www.youtube.com/@danielengdev
+
+📷 Instagram: https://www.instagram.com/daniel.eng.dev/
 
 <p align="left">
     <a href="https://www.youtube.com/@danielengdev?sub_confirmation=1">
