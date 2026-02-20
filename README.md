@@ -1,7 +1,9 @@
 # 👩🏻‍💻 Daniel Faustino
 
 **`Frontend Architect | Staff Frontend Engineer
-Angular • Micro-frontends • Design Systems • Frontend Platform • DevOps`**
+Angular 
+
+• Micro-frontends • Design Systems • Frontend Platform • DevOps`**
 
 Sou engenheiro de software com 18+ anos de experiência liderando a construção e modernização de produtos digitais em ambientes enterprise.
 Especialista em:
