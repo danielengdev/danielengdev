@@ -23,11 +23,7 @@ Estadão.
 
 Foco em transformar sistemas complexos em arquiteturas escaláveis, sustentáveis e orientadas ao negócio.
 
-📩 LinkedIn: https://www.linkedin.com/in/daniel-faustino-silva
-
-📺 YouTube: https://www.youtube.com/@danielengdev
-
-📷 Instagram: https://www.instagram.com/daniel.eng.dev/
+Whatsapp: 61 99972 8674
 
 <p align="left">
     <a href="https://www.youtube.com/@danielengdev?sub_confirmation=1">
